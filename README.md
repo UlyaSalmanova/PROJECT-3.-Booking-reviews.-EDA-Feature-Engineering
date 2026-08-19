@@ -118,3 +118,11 @@
 ---
 
 ## 📁 Структура репозитория
+
+### Папка `notebooks/`
+- [variant_1_baseline.ipynb](https://github.com/UlyaSalmanova/PROJECT-3.-Booking-reviews.-EDA-Feature-Engineering/blob/main/notebooks/Booking%20reviews%20Version_1.ipynb) — базовый вариант (только числовые признаки)
+- [variant_2_feature_engineering.ipynb](https://github.com/UlyaSalmanova/PROJECT-3.-Booking-reviews.-EDA-Feature-Engineering/blob/main/notebooks/Booking%20reviews%20Version_2.ipynb) — улучшенный вариант (с новыми признаками)
+
+### Корневые файлы
+- [README.md](https://github.com/UlyaSalmanova/PROJECT-3.-Booking-reviews.-EDA-Feature-Engineering/blob/main/README.md) — описание проекта
+- [requirements.txt](https://github.com/UlyaSalmanova/PROJECT-3.-Booking-reviews.-EDA-Feature-Engineering/blob/main/requirements.txt) — список библиотек для установки
